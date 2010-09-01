@@ -3,5 +3,6 @@
 	email = kuahyeow@gmail.com
 [core]
 	excludesfile = /Users/kuahyeow/.gitignore
+	editor = nano
 [color]
 	ui = true
