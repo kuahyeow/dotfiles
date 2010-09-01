@@ -1,0 +1,7 @@
+[user]
+	name = kuahyeow
+	email = kuahyeow@gmail.com
+[core]
+	excludesfile = /Users/kuahyeow/.gitignore
+[color]
+	ui = true

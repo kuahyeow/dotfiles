@@ -1,0 +1,5 @@
+cd code
+git clone dotfiles
+cd ~
+ln -s code/dotfiles/gitignore .gitignore
+cp code/dotfiles/gitconfig .gitconfig
