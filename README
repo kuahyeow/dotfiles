@@ -3,3 +3,11 @@ git clone dotfiles
 cd ~
 ln -s code/dotfiles/gitignore .gitignore
 cp code/dotfiles/gitconfig .gitconfig
+
+ln -s code/dotfiles/bash_aliases .bash_aliases
+
+# Edit .profile or .bash_profile or .bashrc and insert the following:
+if [ -f ~/.bash_aliases ]; then
+ . ~/.bash_aliases
+fi
+
