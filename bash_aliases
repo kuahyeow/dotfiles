@@ -5,5 +5,5 @@ alias gg='git grep'
 alias s='spec'
 alias c='cucumber'
 
-alias g='gedit'
 alias m='mate'
+alias g='gedit'

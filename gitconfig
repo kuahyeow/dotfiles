@@ -6,3 +6,6 @@
 	editor = nano
 [color]
 	ui = true
+[alias]
+	st = status
+	mo = ls-files -m
