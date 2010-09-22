@@ -1,4 +1,5 @@
-alias mysqlstart='sudo /opt/local/bin/mysqld_safe5 &'
+#Really only for the mac, which does not have init.d
+alias mysqlstart='sudo /opt/local/bin/mysqld_safe5'
 alias mysqlstop='/opt/local/bin/mysqladmin5 -u root -p shutdown'
 
 alias gg='git grep'
