@@ -4,8 +4,9 @@
 [core]
 	excludesfile = /Users/kuahyeow/.gitignore
 	editor = nano
+	autocrlf = input
 [color]
 	ui = true
 [alias]
-	st = status
-	mo = ls-files -m
+        st = status 
+        mo = ls-files -m
