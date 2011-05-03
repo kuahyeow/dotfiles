@@ -5,8 +5,11 @@
 	excludesfile = /Users/kuahyeow/.gitignore
 	editor = nano
 	autocrlf = input
+[push]
+  default = current
 [color]
 	ui = true
 [alias]
-        st = status 
-        mo = ls-files -m
+	s = status
+  st = status
+  mo = ls-files -m
