@@ -6,6 +6,7 @@ alias mysql='mysql5'
 alias gg='git grep'
 alias s='spec'
 alias c='cucumber'
+alias ur='unicorn_rails'
 
 alias m='mate'
 alias g='gedit'
