@@ -11,5 +11,8 @@
 	ui = true
 [alias]
 	s = status
-  st = status
-  mo = ls-files -m
+        st = status
+        mo = ls-files -m
+        morning = !git fetch origin && git status
+        l = log --oneline --decorate
+

@@ -4,6 +4,7 @@
 #alias mysql='mysql5'
 
 alias gg='git grep'
+alias gitl='git log --oneline --decorate'
 alias s='spec'
 alias c='cucumber'
 alias ur='unicorn_rails'
