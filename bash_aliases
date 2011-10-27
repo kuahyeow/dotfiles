@@ -5,7 +5,7 @@
 
 alias gg='git grep'
 alias gitl='git log --oneline --decorate'
-alias s='spec'
+alias s='rspec'
 alias c='cucumber'
 alias ur='unicorn_rails'
 
