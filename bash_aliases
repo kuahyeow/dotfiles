@@ -8,6 +8,7 @@ alias gitl='git log --oneline --decorate'
 alias s='rspec'
 alias c='cucumber'
 alias ur='unicorn_rails'
+alias be='bundle exec'
 
 alias m='mate'
 alias g='gedit'
