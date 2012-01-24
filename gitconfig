@@ -6,13 +6,14 @@
 	editor = nano
 	autocrlf = input
 [push]
-  default = current
+	default = upstream
 [color]
 	ui = true
 [alias]
 	s = status
-        st = status
+        st = status 
         mo = ls-files -m
-        morning = !git fetch origin && git status
+	morning = !git fetch origin && git status
         l = log --oneline --decorate
-
+[rerere]
+	enabled = 0
