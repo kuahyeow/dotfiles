@@ -9,6 +9,7 @@ alias s='rspec'
 alias c='cucumber'
 alias ur='unicorn_rails'
 alias be='bundle exec'
+alias bec='bundle exec cucumber'
 
 alias m='mate'
 alias g='gedit'
