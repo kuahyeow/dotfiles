@@ -15,5 +15,6 @@
         mo = ls-files -m
 	morning = !git fetch origin && git status
         l = log --oneline --decorate
+	lol = log --oneline --decorate --graph
 [rerere]
 	enabled = 0
