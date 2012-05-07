@@ -1,20 +1,19 @@
 [user]
-	name = kuahyeow
-	email = kuahyeow@gmail.com
+  name = kuahyeow
+  email = kuahyeow@gmail.com
 [core]
-	excludesfile = /Users/kuahyeow/.gitignore
-	editor = nano
-	autocrlf = input
+  excludesfile = /Users/kuahyeow/.gitignore
+  editor = nano
+  autocrlf = input
 [push]
-	default = upstream
+  default = upstream
 [color]
-	ui = true
+  ui = true
 [alias]
-	s = status
-        st = status 
-        mo = ls-files -m
-	morning = !git fetch origin && git status
-        l = log --oneline --decorate
-	lol = log --oneline --decorate --graph
-[rerere]
-	enabled = 0
+  s = status
+  st = status
+  mo = ls-files -m
+  morning = !git fetch origin && git status
+  l = log --oneline --decorate
+  lol = log --oneline --decorate --graph
+
