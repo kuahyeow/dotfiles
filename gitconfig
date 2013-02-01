@@ -1,10 +1,9 @@
 [user]
-  name = kuahyeow
+  name = Thong Kuah
   email = kuahyeow@gmail.com
 [core]
   excludesfile = /Users/kuahyeow/.gitignore
   editor = nano
-  autocrlf = input
 [push]
   default = upstream
 [color]
