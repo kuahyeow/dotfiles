@@ -12,6 +12,7 @@
   s = status
   st = status
   mo = ls-files -m
+  mom = diff-tree --no-commit-id --name-only -r
   morning = !git fetch origin && git status
   l = log --oneline --decorate
   lol = log --oneline --decorate --graph
