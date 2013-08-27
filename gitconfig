@@ -3,7 +3,7 @@
   email = kuahyeow@gmail.com
 [core]
   excludesfile = /Users/kuahyeow/.gitignore
-  editor = vi
+  editor = vim
 [push]
   default = upstream
 [color]
