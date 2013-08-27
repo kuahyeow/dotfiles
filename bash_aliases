@@ -6,6 +6,7 @@
 alias gg='git grep'
 alias gitl='git log --oneline --decorate'
 alias s='rspec'
+alias ss='spring rspec'
 alias c='cucumber'
 alias ur='unicorn_rails'
 alias be='bundle exec'
