@@ -1,0 +1,7 @@
+set guifont=Menlo\ Bold:h13
+
+color cobalt
+
+set guioptions-=T
+
+set autoread
