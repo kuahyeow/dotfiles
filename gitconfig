@@ -14,6 +14,7 @@
   mo = ls-files -m
   mom = diff-tree --no-commit-id --name-only -r
   morning = !git fetch origin && git status
+  morn = !git fetch origin && git status
   l = log --oneline --decorate
   lol = log --oneline --decorate --graph
   # poor imitation of git branch -v but with formats
