@@ -16,6 +16,7 @@
   morning = !git fetch origin && git status
   morn = !git fetch origin && git status
   l = log --oneline --decorate
+  one = log --oneline
   lol = log --oneline --decorate --graph
   # poor imitation of git branch -v but with formats
   bv = for-each-ref --format=\"  %(refname:short)        %(objectname:short) %(contents:subject) (%(authorname))\" refs/heads
