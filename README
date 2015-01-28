@@ -9,6 +9,8 @@ ln -s code/dotfiles/vimrc.before .vimrc.before
 
 ln -s code/dotfiles/bash_aliases .bash_aliases
 
+ln -s code/dotfiles/tmux.confg .tmux.conf
+
 # Edit .profile or .bash_profile or .bashrc and insert the following:
 if [ -f ~/.bash_aliases ]; then
  . ~/.bash_aliases
