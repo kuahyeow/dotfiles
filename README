@@ -6,6 +6,7 @@ cp code/dotfiles/gitconfig .gitconfig
 
 ln -s code/dotfiles/gvimrc.after .gvimrc.after
 ln -s code/dotfiles/vimrc.before .vimrc.before
+ln -s code/dotfiles/vimrc.after .vimrc.after
 
 ln -s code/dotfiles/bash_aliases .bash_aliases
 
