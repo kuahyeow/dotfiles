@@ -1,4 +1,5 @@
 alias gg='git grep'
+alias ggW='git grep --function-context'
 alias gitl='git log --oneline --decorate'
 alias s='rspec --color --format d'
 alias ss='spring rspec --color --format d'
