@@ -1,3 +1,9 @@
 color luinnar
 
 set paste
+
+set textwidth=80
+
+" Be a bit more forgiving
+set colorcolumn=150
+highlight ColorColumn ctermbg=grey guibg=grey
