@@ -2,6 +2,10 @@ color luinnar
 
 set paste
 
+set expandtab
+set shiftwidth=2
+set softtabstop=2
+
 set textwidth=80
 
 " Be a bit more forgiving
