@@ -1,5 +1,5 @@
-alias gg='git grep'
-alias ggW='git grep --function-context'
+alias gg='git grep -I'   # don't match binary files
+alias ggW='git grep --function-context -I'
 alias gitl='git log --oneline --decorate'
 alias s='rspec --color --format d'
 alias ss='bundle exec spring rspec --color --format d'
