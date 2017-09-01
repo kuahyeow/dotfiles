@@ -11,7 +11,8 @@
 [alias]
   s = status
   st = status
-  mo = ls-files -m
+  mo = diff --name-only
+  moc = diff --name-only --cached
   mom = diff-tree --no-commit-id --name-only -r
   morning = !git fetch origin && git status
   morn = !git fetch origin && git status
