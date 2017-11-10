@@ -1,3 +1,4 @@
 call janus#disable_plugin('nerdtree')
+call janus#disable_plugin('syntastic')
 let g:loaded_netrw        = 1 " Disable netrw
 let g:loaded_netrwPlugin  = 1 " Disable netrw
