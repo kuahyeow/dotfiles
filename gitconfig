@@ -4,6 +4,8 @@
 [core]
   excludesfile = /Users/kuahyeow/.gitignore
   editor = vim
+[diff]
+  wsErrorHighlight = all
 [push]
   default = upstream
 [color]
