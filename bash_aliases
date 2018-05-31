@@ -9,6 +9,8 @@ alias c='cucumber'
 alias ur='unicorn_rails'
 alias be='bundle exec'
 alias bec='bundle exec cucumber'
+alias ss='bundle exec spring rspec'
+alias sc='bundle exec spring cucumber'
 
 alias m='mate'
 alias g='gedit'
