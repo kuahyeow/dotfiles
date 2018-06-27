@@ -1,7 +1,5 @@
 color luinnar
 
-set paste
-
 set expandtab
 set shiftwidth=2
 set softtabstop=2
